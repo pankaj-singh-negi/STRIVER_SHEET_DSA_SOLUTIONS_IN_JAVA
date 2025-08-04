@@ -22,3 +22,6 @@ class Check_palindrome {
         return reverse==n;
     }
     }
+
+// Time Complexity: O(d), where d is the number of digits in n
+// Space Complexity: O(1), uses constant extra space

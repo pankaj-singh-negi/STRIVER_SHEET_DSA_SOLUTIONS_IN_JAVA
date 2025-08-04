@@ -28,4 +28,5 @@ class Count_Digits
         return count;
     }
 
-}
+}// Time Complexity: O(d), where d is the number of digits in n
+// Space Complexity: O(1), uses constant extra space

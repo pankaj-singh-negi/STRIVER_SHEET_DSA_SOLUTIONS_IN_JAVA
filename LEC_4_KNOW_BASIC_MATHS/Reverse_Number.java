@@ -25,3 +25,5 @@ public static int reverseDigits(int n) {
         return reverse;
     }
 }
+// Time Complexity: O(d), where d is the number of digits in n
+// Space Complexity: O(1), uses constant extra space
