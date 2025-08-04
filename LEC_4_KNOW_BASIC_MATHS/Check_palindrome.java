@@ -5,6 +5,7 @@ class Check_palindrome {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number to check palindrome: ");
         int n = sc.nextInt();
+        sc.close();
 
         System.out.println("The given number " + n + " is: " + Check_palindrome(n));
        

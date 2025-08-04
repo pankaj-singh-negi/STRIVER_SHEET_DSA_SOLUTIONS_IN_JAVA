@@ -8,7 +8,7 @@ public class Reverse_Number {
         int n = sc.nextInt();
 
         System.out.println("Reversed Number " + n + " is: " + reverseDigits(n));
- 
+            sc.close();
         }
 
 

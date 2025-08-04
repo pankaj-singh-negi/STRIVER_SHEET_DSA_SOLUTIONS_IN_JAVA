@@ -9,6 +9,7 @@ public class GCD_of_Two_Numbers {
         int b = sc.nextInt();
 
         System.out.println("The GCD of " + a + " and " + b + " is: " + gcd(a, b));
+        sc.close();
     }
 
     public static int gcd(int a, int b) {
