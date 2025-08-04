@@ -7,11 +7,11 @@ class Check_palindrome {
         int n = sc.nextInt();
         sc.close();
 
-        System.out.println("The given number " + n + " is: " + Check_palindrome(n));
+        System.out.println("The given number " + n + " is: " + Check_Palindrome(n));
        
     }
 
-    public static boolean Check_palindrome(int n){
+    public static boolean Check_Palindrome(int n){
         int num = n;
         int digit;
         int reverse = 0;
