@@ -1,3 +1,5 @@
+package STEP_1_LEC_4_KNOW_BASIC_MATHS;
+
 import java.util.Scanner;
 
 public class Reverse_Number {
